@@ -1,0 +1,30 @@
+[
+  {
+    "nom": "Quiz sur la Révolution Française",
+    "theme": "Histoire",
+    "quizDate": "2023-07-13T22:00:00.000Z",
+    "votes": 125,
+    "id": "567cdf39-23d0-43c7-b764-1c66311b944f"
+  },
+  {
+    "nom": "Les films de Quentin Tarantino",
+    "theme": "Cinéma",
+    "quizDate": "2023-09-19T22:00:00.000Z",
+    "votes": 250,
+    "id": "518630df-2744-46ea-bbbb-5c2208fdda7f"
+  },
+  {
+    "nom": "Le système solaire",
+    "theme": "Sciences",
+    "quizDate": "2023-10-04T22:00:00.000Z",
+    "votes": 180,
+    "id": "e554850f-f481-4ca6-b313-9a269cfad6b4"
+  },
+  {
+    "nom": "Quiz sur la Seconde Guerre Mondiale",
+    "theme": "Histoire",
+    "quizDate": "2023-05-07T22:00:00.000Z",
+    "votes": 95,
+    "id": "01d0318f-914c-47d2-9711-db82a3f51e2c"
+  }
+]
